@@ -26,6 +26,15 @@ $mvnw tomcat7:run
 
 <img src="./run-configuration.PNG">
 
+* Upon successfully running the application, you should see the following standard-output on your IDE console
+
+<img src="run-stdout.PNG">
+
+* Navigate to "https://localhost:8080/sample" to verify that you can see the following webpage.
+
+<img src="browser-view.PNG">
+
+
 ### Run test
 ```
 $mvnw clean test
