@@ -24,7 +24,7 @@ $mvnw tomcat7:run
 
 <img src="./run-configuration.PNG">
 
-<img src="./edit-run-configuration.PNG">
+<img src="./edit-run-configuration.png">
 
 ### Run test
 ```
