@@ -22,9 +22,9 @@ $mvnw tomcat7:run
 
 * If Apache is not installed, please configure the project using the screenshots below
 
-<img src="./run-configuration.PNG">
-
 <img src="./edit-run-configuration.png">
+
+<img src="./run-configuration.PNG">
 
 ### Run test
 ```
