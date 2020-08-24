@@ -4,9 +4,6 @@
     * JSPs
     * Apache Tomcat
     * Servlets
-* **Description**
-    * Ensure that you have [installed Apache Tomcat](http://tomcat.apache.org/download-80.cgi)
-        * For windows installer, click [here](http://apache.mirrors.hoobly.com/tomcat/tomcat-8/v8.5.57/bin/apache-tomcat-8.5.57.exe)
     
 
 
