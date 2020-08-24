@@ -4,9 +4,6 @@
     * JSPs
     * Apache Tomcat
     * Servlets
-* **Description**
-    * Ensure that you have [installed Apache Tomcat](http://tomcat.apache.org/download-80.cgi)
-        * For windows installer, click [here](http://apache.mirrors.hoobly.com/tomcat/tomcat-8/v8.5.57/bin/apache-tomcat-8.5.57.exe)
     
 
 
@@ -14,6 +11,12 @@
 
 
 ## For APIs
+
+###  How to run web server with Apache Tomcat ?
+
+```
+$mvnw tomcat7:run
+```
 
 ### Run test
 ```
@@ -25,15 +28,8 @@ $mvnw clean test
 $mvnw clean package
 ```
 
-###  How to run web server with Apache Tomcat ?
-
-```
-$mvnw tomcat7:run
-```
-
 ###  Run in browser 
-* http://localhost:8080/api/hello
-* http://localhost:8080/api/hello.html
+* http://localhost:8080/sample
 
 
 
