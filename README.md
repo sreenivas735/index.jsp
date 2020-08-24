@@ -13,10 +13,18 @@
 ## For APIs
 
 ###  How to run web server with Apache Tomcat ?
+* If Apache Tomcat is installed on your machine locally, the command below may work.
 
 ```
 $mvnw tomcat7:run
 ```
+
+
+* If Apache is not installed, please configure the project using the screenshots below
+
+<img src="./run-configuration.PNG">
+
+<img src="./edit-run-configuration.PNG">
 
 ### Run test
 ```
