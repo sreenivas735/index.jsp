@@ -22,17 +22,17 @@ $mvnw tomcat7:run
 
 * If Apache is not installed, please configure the project using the screenshots below
 
-<img src="./edit-run-configuration.png">
+<img src="./instructions/edit-run-configuration.png">
 
-<img src="./run-configuration.PNG">
+<img src="./instructions/run-configuration.PNG">
 
 * Upon successfully running the application, you should see the following standard-output on your IDE console
 
-<img src="run-stdout.PNG">
+<img src="./instructions/run-stdout.PNG">
 
 * Navigate to "https://localhost:8080/sample" to verify that you can see the following webpage.
 
-<img src="browser-view.PNG">
+<img src="./instructions/browser-view.PNG">
 
 
 ### Run test
@@ -61,3 +61,6 @@ docker container run -d -p 3306:3306  \
 -e MYSQL_PASSWORD=xitgmLwmp \
 --name db2 mysql:5.7.21
 ```
+
+
+* _this template was created by following the first 3 minutes of [this YouTube tutorial](https://www.youtube.com/watch?v=rXu4MwUw2C8)_
