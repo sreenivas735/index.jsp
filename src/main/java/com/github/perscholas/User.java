@@ -1,4 +1,4 @@
-package java.com.github.perscholas;
+package com.github.perscholas;
 
 public class User {
 

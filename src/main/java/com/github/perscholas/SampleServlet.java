@@ -1,4 +1,4 @@
-package java.com.github.perscholas;
+package com.github.perscholas;
 
 import org.codehaus.jackson.map.ObjectMapper;
 
