@@ -25,7 +25,7 @@
     %>
 
     <form method="post">
-        UserName<input id="input-username" type="text" name="username"/><br />
+        User<input id="input-username" type="text" name="username"/><br />
         Password<input id="input-password" type="text" name="password"><br />
         <input id="login-button" type="submit" name="login" value="Login" />
     </form>
