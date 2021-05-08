@@ -12,7 +12,7 @@
         if("tom".equals(userName) && "jerry".equals(userPass)) {
             response.sendRedirect("success.jsp");
         } else {
-            message = "Password and Username does not match";
+            message = "poyyi pani chusukora";
         }
     }
 %>
